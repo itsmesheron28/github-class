@@ -1,0 +1,29 @@
+body{
+    background-color: plum;
+    color :ghostwhite;  /* text color */
+}
+
+/* open new terminal > so we have to initiase the git on a folder which tells that  he multiple versions and git will be working on that selected folder a
+> git status - to kn the status 
+go live to see websites on html and css and then bottom right press go live to see the web  
+
+to initialise 
+this folders r the working directory - folder which we r working on    so at this pt git knows that something is changed but not saved in history
+
+step 1 to initialise cmd will be git init and u will se a U 
+u- untracked *
+step 2 cmd giot status
+3 adding ur file to staging area
+staging area means selection stage (getting the files on track)  that we have declared and done 4-5 changes and one change we r selecting and i want it 
+4 - git status 
+5- adding ur file staging area(git add)   -- cmd - add index.html so till will tell u that it is ready for commit 
+green means it has been added symobol(A)
+red means still untracked(U)
+ 
+for shortcut to add all files to gether write cmd -- git add .
+
+NOW TO put on local repo u should know the place of where this commit is getting stored
+now to put it on local file basically commiting ur changes  type    CMD - git commit -m "version 1: dark theme (message -name which version will chnage )" 
+
+
+/
