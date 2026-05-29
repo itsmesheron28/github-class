@@ -25,5 +25,10 @@ for shortcut to add all files to gether write cmd -- git add .
 NOW TO put on local repo u should know the place of where this commit is getting stored
 now to put it on local file basically commiting ur changes  type    CMD - git commit -m "version 1: dark theme (message -name which version will chnage )" 
 
+git add .
+git commit -m "your message"
+git push   -----now ur code is  on github and u can see the changes on the github repositary 
+
+
 
 /
